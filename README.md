@@ -16,7 +16,7 @@
 2. Go to the "Vencord" category and select the "Themes" tab, then go to the "Online Themes" section.
 3. In the input field under "THEMES" paste the following URL.
 ```
-https://raw.githubusercontent.com/JustJabka/Fresh-Tokyo-Night/main/fresh-tokyo-night.theme.css
+https://raw.githubusercontent.com/JustJabka/Fresh-Tokyo-Night/refs/heads/main/fresh-tokyo-night.theme.css
 ```
 
 ##### Local Theme Method
