@@ -1,7 +1,7 @@
 /**
 * @name ✨Fresh✨ Tokyo Night
 * @author JustJabka, JIRONIS
-* @version 1.0.0
+* @version 1.0.1
 * @description Updated version of "Tokyo Night" theme.
 */
 
@@ -12,7 +12,7 @@
   --primary-600: #1a1b26;
   --primary-630: #13131a; /* Scrollbar and toolbar */
   --primary-500: #1d1e28; /* Watch button */ 
-  --home-background: none;  
+  --home-background: none;
   --primary-600-hsl: none;
 
   /* Header Color */
@@ -47,6 +47,7 @@
   --accent-color: #7aa2f7;
   --bg-overlay-2: var(--primary-600);
   --bg-mod-faint: #16161e; /* Buttons and search */
+  --bg-mod-subtle: #13131a;
 
   /* Folder Color */
   --folder-color: #202332d0;
