@@ -65,6 +65,7 @@
   /* Chat Box Color */
   --channeltextarea-background: var(--background-secondary);
   --channeltextarea-background-hover: var(--background-tertiary);
+  --activity-card-background: #13131a;
 }
 
 /* Box in user profile */
