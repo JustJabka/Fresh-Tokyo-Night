@@ -48,6 +48,7 @@
   --bg-overlay-2: var(--primary-600);
   --bg-mod-faint: #16161e; /* Buttons and search */
   --bg-mod-subtle: #13131a;
+  --input-background: #16161e;
 
   /* Folder Color */
   --folder-color: #202332d0;
@@ -71,6 +72,11 @@
 /* Box in user profile */
 .container_ecc04c {
   background-color: var(--primary-600);
+}
+
+/* Spoiler */
+.spoilerMarkdownContent_aa9639 {
+    background-color: #13131a;
 }
 
 /* Support for plugin Shiki Code */
